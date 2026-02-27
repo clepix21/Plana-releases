@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/clepix21/Plana-releases/main/src/assets/logo.png" alt="Plana Logo" width="150" />
+<img src="./src/assets/logo.png" alt="Plana Logo" width="150" />
 
 # Plana — Releases
 
