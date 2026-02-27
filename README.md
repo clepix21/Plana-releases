@@ -54,9 +54,9 @@ planning pour les services hospitaliers. Elle permet de :
 
 ## Licence
 
-**Plana** est un logiciel **propriétaire** — Tous droits réservés.
 
-Copyright © 2026 [Clément Lemaire](https://github.com/clepix21). Tous droits réservés.
+
+Copyright © 2026 [Clément Lemaire](https://github.com/clepix21). **Plana** est un logiciel propriétaire. Tous droits réservés.
 
 Toute utilisation, copie, modification ou distribution est **strictement interdite**
 sans autorisation écrite préalable.
